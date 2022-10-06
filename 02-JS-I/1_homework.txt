@@ -1,0 +1,31 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Las variables son como cajas, tienen un espacio reservado donde podemos guardar algo,
+una pelota, un libro, una radio, etc. y con esta idea en mente, podriamos decir que una variable 
+nos premite guardar un valor, de cualquier tipo como numeros, cadenas o string, incluso funciones.
+
+Strings:
+¿quieres guardar tu nombre por ejemplo dentro de una cajita o una variable?, eso puedes hacerlo
+tu nombre en comillas simples ('') o dobles (""), no solo tu nombre, un texto completo dentro de las
+comillas se convierte en un solo objeto, llamado string.
+
+Funciones (argumentos, return)
+Las funciones te ayudaran a no repetir codigo dentro de tus scripts o a crear codigo re-utilizable hace 
+el programa mas legible.
+Un argumento es un parametro que le pasamos a la funcion para que esta funcion realice calculos en base
+a los parametros entregados.
+Un return es el resultado de estos calculos o computo, y es lo que devuelve o retorna una funcion.
+
+Declaraciones if
+Las declaraciones if nos ayudan a darle flujo o comportamiento a nuestrso programas, y tal como su traducion
+al español (SI) quiere decir que si el programa (SI) cumple una funcion se ejecutara el codigo que 
+indiquemos.
+
+Valores booleanos (true, false)
+Los valores booleanos nos dan dos alternativas:
+Activado - Desactivado
+1 - 0
+Verdadero o Falso
+se complementan con las declaraciones IF, que evaluan bloqued de codigo como "Verdadero" o "Falso".

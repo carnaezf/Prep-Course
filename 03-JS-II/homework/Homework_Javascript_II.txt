@@ -1,0 +1,35 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará 
+a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Ahora revisaremos con nuestras propias palabras los siguientes conceptos
+
+-for:
+Esta es una palabra reservada para construir bucles o loops, el codigo se ejecutará mientas 
+la condición dentro de este bucle sea evaluada como "true", aca entan tambien variables iterativass 
+que funcionan como contadores.
+
+
+-&&:
+Este es el simbolo en JavaScript para el operador logico "and", esto quiere decir que puede evaluar 
+entre dos argumentos (o incluso expresiones), retornará verdadero o falso según la suiguiente tabla:
+
+true AND true = true
+true AND False = False
+false and false = false
+
+
+-||:
+Este es el simbolo en JavaScript para el operador logico "or", evelauará "true" siempre y cuando una de las 
+expresiones evaluadas sean "true".
+
+true AND true = true
+true AND False = true
+false and false = false
+
+
+-!:
+Por ultimo tenemos el operador "NOT", este oprrador simplemente "invertira el valor booleano resultante.
+
+"true" sera evaluado como "false".
+"false" sera evaluado como "true".

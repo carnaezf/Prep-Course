@@ -1,0 +1,9 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará 
+a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Array
+Los Arrays son como listas, es un solo objeto que contiene muchos otros elementos, de varios 
+tipos, como lo seria por ejemplo una lista de compras, al igual que una lista de compras,
+podemos manipular la lista a nivel de elementos, podemos recorrer el listado, sumar elementos, 
+eliminarlos, conocer su longitud, etc..

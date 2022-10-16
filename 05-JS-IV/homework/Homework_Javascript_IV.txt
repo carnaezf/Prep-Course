@@ -1,0 +1,41 @@
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará 
+a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos:
+Todo en JS es un objeto, un objeto es la representacion de elementos de la vida reaa en la que 
+dotamos al objeto de propiedades (Atributos) y funcionalidades (Metodos), mientras que las listas o los 
+arrays pueden tener muchos elementos relaconados entre si, los objetos tienen mucha información 
+relacionada con una sola cosa.
+
+
+Propiedades
+Las propiedades son los atributos de nuestro objeto, por ejemplo, si es la representacion
+de un 'perro', podriamos decir que las propiedades son la altura, el color de pelo, color de ojos, etc..
+
+
+
+
+Métodos
+Los metodos son funciones dentro de los objetos, valga la redundancia, le dan funcionalidad
+los objetos, exitne metodos incorporados, por ejemplo el metodo length es una funcion que 
+entrega el largo de una matriz, otros ejemplos serian pop o unshifth, al crear un objeto
+nosotros mismos podemos crear sus propios objetos.
+
+
+Bucle `for…in`
+El 'bucle for in' tiene una sintaxis similar al bucle standard, esto debido que carece de un 
+indice como los arrays, esta sintaxis ligeramente distinta, en la que tenemos que declarar 
+una variable mas la palabra 'in' mas el objeto, esto permite recorrer todos los pares 
+'claves-valor' dentro del objeto.
+
+
+Notación de puntos vs notación de corchetes
+Podemos accesder a pares clave valor de dos formas, mediante la 'notacion de puntos',
+que consiste en llamar al nombre del objeto seguida de un '.' seguido del nombre de la clave,
+
+la segunda forma es mediante la notaccion de corchetes, es similiar a llamar elementos en una matriz,
+con la diferencia que  en vez de utilizar los numeros de indices, lo hacemos a traves de un string 
+o un numeros o una variable, las claves deben estar envueltas en comillas.
+

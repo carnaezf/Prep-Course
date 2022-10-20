@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir 
+rápidamente cualquier agujero en tu comprensión.
+
+prototype
+Debido que al crear clases con metodos tiene un alto costo en memoria, ya questos deben ser recreados, existe
+una forma a traves de protoype, que es basicamente establecer un metodos una vez y dar accaeso a esa clase a esos metodos.
+
+
+Constructors (de Clases)
+El constructor, como su nombre lo indica, es el codigo que construye y configura un objeto cuando se crea usando la 
+palabra reservada 'new', todas las clases tienen un constructor.
+
+
